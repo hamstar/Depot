@@ -1,2 +1,2 @@
-.list_line_even { background: #eeeeee; }
+.list_line_even { background: #ddd; }
 .list_line_odd { background: #c0fff0; }
